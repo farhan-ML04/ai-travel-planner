@@ -51,27 +51,6 @@ All outputs are combined and enhanced using **Google Gemini LLM** to generate a 
 * 🌐 Interactive Streamlit UI
 * ⚡ Fast and lightweight
 
----
-
-## 🧪 Example Input
-
-```
-Destination: Goa  
-Budget: 15000 INR
-```
-
----
-
-## 📋 Example Output
-
-* Day-wise travel plan
-* Flight options
-* Hotel suggestions
-* Weather details
-* Tourist attractions
-* Budget breakdown
-
----
 
 ## 🧠 Key Learnings
 
