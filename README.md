@@ -5,10 +5,9 @@ The system combines multiple specialized agents (flights, hotels, weather, attra
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live web app
 
-👉 *Add your deployed Streamlit link here*
-Example: https://ai-travel-planner-ywaxuw3pq4vf983amugizy.streamlit.app/
+ https://ai-travel-planner-ywaxuw3pq4vf983amugizy.streamlit.app/
 
 ---
 
